@@ -1,0 +1,11 @@
+{
+    "name": "kingzy/w-php-502-lyn-2-1-pie-php-emmannuel.mingui",
+    "description": "PiePHP - Create a framework in PHP",
+    "authors": [
+        {
+            "name": "Emmanuel Mingui",
+            "email": "emmanuelmingui@gmail.com"
+        }
+    ],
+    "require": {}
+}
